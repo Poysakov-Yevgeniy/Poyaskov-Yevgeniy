@@ -23,6 +23,23 @@ Ternopil, Ukraine
     2. Pull Requests
     3. Releases
 
+## 🎯 Goals
+
+- Learn Python  
+    Expand knowledge in Python.
+
+- Master Object-Oriented Programming in C++  
+    Deepen understanding of OOP concepts.
+
+- Master working with Git and GitHub for team projects  
+    Improve collaboration efficiency in team projects.
+
+- Improve code readability  
+    Focus on writing clean, understandable, and maintainable code following best practices.
+
+- Learn to work in a team  
+    Develop teamwork skills, collaboration, knowledge sharing, and responsibility for collective projects.
+
 ## 🧠 Experience
 
 **Self-Education and Practice**  
