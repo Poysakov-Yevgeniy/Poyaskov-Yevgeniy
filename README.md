@@ -1,4 +1,4 @@
-# 👋 Hi there I'm Yevgeniy
+# 👋 Hi there I'm Yevhenii
 
 Welcome to my GitHub profile! I am a beginner programmer. I have studied HTML, CSS and I am currently learning C++.  I am highly motivated to become a software developer and join the team working on this project.  I believe in my potential to grow into a professional and create innovative and impactful solutions in the future.
 
