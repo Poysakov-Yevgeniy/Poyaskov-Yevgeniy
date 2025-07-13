@@ -25,6 +25,10 @@ Ternopil, Ukraine
 
 ## 🎯 Goals
 
+- 🔍 **Direction of interest:** Fullstack Development / Backend Development  
+- 💼 **Preferred team role:** Backend
+- 🧰 **Tech Stack:** HTML, CSS, C++
+
 - Learn Python  
     Expand knowledge in Python.
 
